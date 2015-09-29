@@ -93,7 +93,7 @@
               map.setCenter(point, 10);
               prev_dest = point;
               $('#loader').show();
-              intval = setInterval( "crawlpoint(" + point.x + "," + point.y + "," + minutes +")", 3000);
+              intval = setInterval( "crawlpoint(" + point.L + "," + point.H + "," + minutes +")", 3000);
             }
           }
         );
