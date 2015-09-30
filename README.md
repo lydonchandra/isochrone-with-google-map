@@ -1,7 +1,6 @@
 
 ----====---- ISOCHRONE ----====----
-![alt tag](https://www.evernote.com/shard/s538/sh/1066130e-ebae-47da-8272-96b230aad144/4304d826a4c36bc1)
-
+![Alt text](/screenshot.png?raw=true "Screenshot")
 DEMO: http://sandropaganotti.com/wp-content/goodies/demos/isochrone/index.html
 
 This script uses Google Maps API to generate a isochrone (http://en.wikipedia.org/wiki/Contour_line#Social_sciences);
