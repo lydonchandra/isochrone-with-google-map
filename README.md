@@ -1,8 +1,6 @@
 
 ----====---- ISOCHRONE ----====----
-
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-
+![alt tag](https://www.evernote.com/shard/s538/sh/1066130e-ebae-47da-8272-96b230aad144/4304d826a4c36bc1)
 
 DEMO: http://sandropaganotti.com/wp-content/goodies/demos/isochrone/index.html
 
